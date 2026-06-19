@@ -1,3 +1,5 @@
+https://claude.ai/share/5604d759-21cb-479c-97e2-af917f715cc9
+
 Necesitas tener **Docker Desktop** (Windows/Mac) o **Docker Engine + el plugin compose** (Linux) instalado. Si ya lo tienes, son tres pasos.
 
 ## Pasos
